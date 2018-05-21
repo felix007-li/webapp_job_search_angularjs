@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sf1232",
+    "imageUrl": "/image/company-1.jpg",
+    "job": "WEB",
+    "companyId": "mok1232",
+    "companyName": "Code School",
+    "cityId": "0",
+    "cityName": "Montreal",
+    "experience": "3-5years",
+    "education": "Undergraduate",
+    "type": "Senior",
+    "scale": "50-100",
+    "industry": "Internet",
+    "salary": "10k-20k"
+  }
+]

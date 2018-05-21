@@ -1,0 +1,19 @@
+{
+  "id": "p3",
+  "imageUrl": "/image/company-3.png",
+  "name": "Saleman",
+  "companyId": "c3",
+  "companyName": "Winner",
+  "cityId": "c1",
+  "cityName": "Toronto",
+  "scaleId": "s3",
+  "scaleName": "500 people plus",
+  "industryId": "i1",
+  "industryName": "Internet",
+  "salaryId": "s2",
+  "salaryName": "3k-5k",
+  "experience": "1-3years",
+  "education": "College",
+  "benefit": "good",
+  "description": "Responsibility：\n1.Selling products；..."
+}

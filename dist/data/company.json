@@ -1,0 +1,27 @@
+{
+    "id": "c1",
+    "imageUrl": "/image/company-1.png",
+    "name": "Code School",
+    "industry": "Internet",
+    "state": "A",
+    "people": "50-150 people",
+    "positionClass": [{
+      "id": "jishu",
+      "name": "skill",
+      "positionList": [{
+        "id": "p1",
+        "name": "IOS developer",
+        "createdDate": "2017-04-16 23:30",
+        "salary": "15k-25k"
+      }]
+    }, {
+      "id": "yunying",
+      "name": "Operating",
+      "positionList": [{
+        "id": "y1",
+        "name": "Chief of operating officer",
+        "createdDate": "2017-04-10 13:30",
+        "salary": "25k以上"
+      }]
+    }]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p1",
+    "imageUrl": "/image/company-1.png",
+    "job": "WEB",
+    "companyId": "c1",
+    "companyName": "Code School",
+    "cityId": "c1",
+    "cityName": "Montreal",
+    "scaleId": "s2",
+    "scaleName": "50-100 people",
+    "industryId": "i1",
+    "industryName": "Internet",
+    "salaryId": "s5",
+    "salaryName": "10k-15k",
+    "experience": "1-3years",
+    "education": "Undergraduate",
+    "benefit": "good",
+    "description": "Reaponsibility：\n1.Focus on front-end development；...",
+    "date": "2017-06-01 01:05",
+    "select": true
+  }
+]

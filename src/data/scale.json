@@ -1,0 +1,16 @@
+[{
+  "id": "",
+  "name": "Unlimited"
+}, {
+  "id": "s1",
+  "name": "less than 50 people"
+}, {
+  "id": "s2",
+  "name": "50~100 people"
+}, {
+  "id": "s3",
+  "name": "100~500 people"
+}, {
+  "id": "s4",
+  "name": "500 people plus"
+}]
