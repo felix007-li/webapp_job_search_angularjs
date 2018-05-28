@@ -1,26 +1,17 @@
-1. ±¾ÎÄ¼şÎŞĞè²¿Êğ
 
-2. ÏÈ°²×° package.json ÖĞµÄnodeÄ£¿é
 
-¿ÉÄÜĞèÒªÈ«¾Ö°²×° gulp£¬¼´ 
+1. Install node module in package.json file
+
+you might need to install gulp 
 
 npm i -g gulp
 
-3. È»ºó°²×° bower.json ÖĞµÄÄ£¿é
+2. install bower module
 
-bower install 
+bower install  or  npm i -g bower 
 
-ĞèÒªÈ«¾Ö°²×°bower
+3. command: gulp to start the app
 
-npm i -g bower 
+4. Mock data in the src folderã€‚
 
-
-4. ¿ª·¢Ê±ĞèÒªÆô¶¯ gulp ÈÎÎñ
-
-¼àÌı´úÂë²¢ÊÂÊµĞĞ±àÒë
-
-gulp
-
-5. srcÄ¿Â¼ÖĞµÄ data ÎÄ¼ş¼ĞÎª¼ÙÊı¾İ£¬Ö±½Ó·ÅÖÃµ½ÏîÄ¿µÄ src Ä¿Â¼¼´¿É¡£
-
-6. ä¯ÀÀÆ÷ÊäÈëhttp://localhost:1234/
+5. Input http://localhost:1234/ in the browser
